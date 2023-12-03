@@ -1,1 +1,1 @@
-https://github.com/vikipranata/a433-microservices.git
+https://hub.docker.com/r/vikipranata/item-app
