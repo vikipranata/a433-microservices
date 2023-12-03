@@ -10,7 +10,7 @@ services:
     image: mongo:3
     container_name: item-db
     volumes:
-     - item-db:/data/db
+     - app-db:/data/db
     restart: always
 volumes:
-  item-db:
+  app-db:
